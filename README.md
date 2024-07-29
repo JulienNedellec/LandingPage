@@ -1,5 +1,6 @@
-## 🔗 Links
-[![landingPage]([https://juliennedellec.github.io/LandingPageWithTailwind/))
+## Visualisation
+
+[Voir le site](https://juliennedellec.github.io/LandingPageWithTailwind/)
 
 ## Tech Stack
 
